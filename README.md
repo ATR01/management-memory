@@ -9,11 +9,11 @@
 ----------
 
 ## Hasil running monoprogramming
-![ss](public\ssMono.png)
+![ss](public/ssMono.png)
 
 ---------
 
 ## Hasil running multiprogramming
-![ss](public\ssMulti.png)
+![ss](public/ssMulti.png)
 
 --------
